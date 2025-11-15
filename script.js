@@ -1,7 +1,7 @@
 // Mapeo de secciones con sus nombres para mostrar
 const sectionNames = {
   exportacion: "Exportación",
-  miacalidad: "Mia-Calidad",
+  calidad: "Calidad",
   logistica: "Logística",
   esporeplus: "Esporeplus",
   logistichym: "Logistic HYM S.A.",
