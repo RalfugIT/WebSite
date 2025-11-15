@@ -8,7 +8,6 @@ const sectionNames = {
   preservacion: "Preservación de frutas y flores",
   filtros: "Filtros",
   sachetetileno: "Sachet de etileno",
-  termografos: "Termógrafos",
   productorhogar: "Productor para el hogar",
   humego: "Humego",
   parchemujeres: "Parche/Mujeres",
