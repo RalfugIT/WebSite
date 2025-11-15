@@ -3,7 +3,6 @@ const sectionNames = {
   exportacion: "Exportación",
   calidad: "Calidad",
   logistica: "Logística",
-  esporeplus: "Esporeplus",
   logistichym: "Logistic HYM S.A.",
   preservacion: "Preservación de frutas y flores",
   filtros: "Filtros",
